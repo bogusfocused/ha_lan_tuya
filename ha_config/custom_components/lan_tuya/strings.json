@@ -1,0 +1,18 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Enter tuya credentials",
+        "description": "{msg}",
+        "data": {
+          "api_key": "API Key",
+          "api_secret": "API Secret",
+          "api_region": "API Region"
+        }
+      }
+    },
+    "errors": {
+      "general_error": "Error"
+    }
+  }
+}

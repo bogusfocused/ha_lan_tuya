@@ -1,0 +1,18 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "description": "{msg}",
+        "data": {
+          "api_key": "API Key",
+          "api_secret": "API Secret",
+          "api_region": "API Region",
+          "device_id": "Sample device id"
+        }
+      }
+    },
+    "errors": {
+      "general_error": "Error"
+    }
+  }
+}

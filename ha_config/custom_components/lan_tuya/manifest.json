@@ -1,0 +1,9 @@
+{
+    "domain": "lan_tuya",
+    "name": "Control Tuya devices on LAN",
+    "version": "1.0",
+    "documentation": "https://github.com/jasonacox/tinytuya#setup-wizard",
+    "requirements": ["pycryptodome"],
+    "codeowners": [],
+    "config_flow": true
+}
